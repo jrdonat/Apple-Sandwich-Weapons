@@ -1,0 +1,16 @@
+{
+  "name": "apple-sandwich-weapons",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GitHub-hosted weapon statistics build and import tooling",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "import-weapons": "node tools/import-weapons.mjs",
+    "test": "node --test",
+    "validate": "node tools/validate.mjs"
+  }
+}

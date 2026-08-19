@@ -1,0 +1,30 @@
+{
+  "Game": "hf-weapons",
+  "Weapons": [
+    {
+      "Path": "Primary/AssaultRifle",
+      "Data": {
+        "Id": "m4a1",
+        "DisplayName": "M4A1",
+        "FireRate": 0.1,
+        "FireModes": [
+          "Auto",
+          "Semi"
+        ],
+        "MagazineCapacity": 30,
+        "AimDownSpread": null
+      }
+    },
+    {
+      "Path": "Primary/Sniper",
+      "Data": {
+        "Id": "awp",
+        "DisplayName": "AWP",
+        "FireRate": 1.2,
+        "FireModes": [
+          "Bolt"
+        ]
+      }
+    }
+  ]
+}

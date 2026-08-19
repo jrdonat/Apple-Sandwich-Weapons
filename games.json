@@ -1,0 +1,8 @@
+{
+  "games": {
+    "hf-weapons": {
+      "source": "HF - Weapons",
+      "output": "hf-weapons.json"
+    }
+  }
+}

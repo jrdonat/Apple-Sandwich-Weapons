@@ -1,0 +1,44 @@
+{
+  "Id": "specter-pdw",
+  "DisplayName": "Specter PDW",
+  "FireRate": 0.065,
+  "FireModes": [
+    "Auto",
+    "Semi",
+    "Burst"
+  ],
+  "MagazineCapacity": 40,
+  "MagazineCount": 6,
+  "AimDownTime": 0.18,
+  "ReloadTime": 2.2,
+  "Damage": {
+    "Humanoid": 10,
+    "Car": 6
+  },
+  "HipFireSpread": 1.05,
+  "AimDownSpread": 0.72,
+  "Recoil": {
+    "RecoverySpeed": 9,
+    "Pitch": {
+      "x": 0.8,
+      "y": 1.1
+    },
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.35
+    }
+  },
+  "Projectile": {
+    "Speed": 2200,
+    "Gravity": 16,
+    "MaxTime": 15
+  },
+  "ScopeGui": "ReplicatedStorage.Guis.Scopes.Compact",
+  "AimDownFOV": 44,
+  "BulletsShot": 1,
+  "Burst": {
+    "Bullets": 3,
+    "Interval": 0.06,
+    "Cooldown": 0.12
+  }
+}

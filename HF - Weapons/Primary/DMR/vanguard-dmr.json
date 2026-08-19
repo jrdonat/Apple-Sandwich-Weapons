@@ -1,0 +1,38 @@
+{
+  "Id": "vanguard-dmr",
+  "DisplayName": "Vanguard DMR",
+  "FireRate": 0.22,
+  "FireModes": [
+    "Semi"
+  ],
+  "MagazineCapacity": 20,
+  "MagazineCount": 7,
+  "AimDownTime": 0.32,
+  "ReloadTime": 2.8,
+  "Damage": {
+    "Humanoid": 34,
+    "Car": 18
+  },
+  "HipFireSpread": 1.45,
+  "AimDownSpread": 0.22,
+  "Recoil": {
+    "RecoverySpeed": 3.8,
+    "Pitch": {
+      "x": 1.9,
+      "y": 2.35
+    },
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.55
+    }
+  },
+  "Projectile": {
+    "Speed": 3200,
+    "Gravity": 14,
+    "MaxTime": 22
+  },
+  "ScopeGui": "ReplicatedStorage.Guis.Scopes.Marksman",
+  "AimDownFOV": 30,
+  "BulletsShot": 1,
+  "Burst": null
+}

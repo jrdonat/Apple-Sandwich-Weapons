@@ -1,0 +1,38 @@
+{
+  "Id": "atlas-lmg",
+  "DisplayName": "Atlas LMG",
+  "FireRate": 0.1,
+  "FireModes": [
+    "Auto"
+  ],
+  "MagazineCapacity": 100,
+  "MagazineCount": 3,
+  "AimDownTime": 0.38,
+  "ReloadTime": 5.4,
+  "Damage": {
+    "Humanoid": 16,
+    "Car": 12
+  },
+  "HipFireSpread": 1.65,
+  "AimDownSpread": 0.95,
+  "Recoil": {
+    "RecoverySpeed": 4.2,
+    "Pitch": {
+      "x": 1.4,
+      "y": 1.8
+    },
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.5
+    }
+  },
+  "Projectile": {
+    "Speed": 2750,
+    "Gravity": 15,
+    "MaxTime": 20
+  },
+  "ScopeGui": "ReplicatedStorage.Guis.Scopes.Basic",
+  "AimDownFOV": 45,
+  "BulletsShot": 1,
+  "Burst": null
+}

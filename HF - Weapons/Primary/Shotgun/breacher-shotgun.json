@@ -1,0 +1,38 @@
+{
+  "Id": "breacher-shotgun",
+  "DisplayName": "Breacher Shotgun",
+  "FireRate": 0.85,
+  "FireModes": [
+    "Semi"
+  ],
+  "MagazineCapacity": 8,
+  "MagazineCount": 6,
+  "AimDownTime": 0.28,
+  "ReloadTime": 3.4,
+  "Damage": {
+    "Humanoid": 8,
+    "Car": 3
+  },
+  "HipFireSpread": 2.4,
+  "AimDownSpread": 1.35,
+  "Recoil": {
+    "RecoverySpeed": 2,
+    "Pitch": {
+      "x": 3.2,
+      "y": 4.4
+    },
+    "Yaw": {
+      "x": 0.5,
+      "y": 1.1
+    }
+  },
+  "Projectile": {
+    "Speed": 1500,
+    "Gravity": 22,
+    "MaxTime": 5
+  },
+  "ScopeGui": null,
+  "AimDownFOV": 50,
+  "BulletsShot": 12,
+  "Burst": null
+}

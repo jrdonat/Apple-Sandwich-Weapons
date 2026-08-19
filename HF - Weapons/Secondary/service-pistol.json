@@ -1,0 +1,38 @@
+{
+  "Id": "service-pistol",
+  "DisplayName": "Service Pistol",
+  "FireRate": 0.16,
+  "FireModes": [
+    "Semi"
+  ],
+  "MagazineCapacity": 17,
+  "MagazineCount": 6,
+  "AimDownTime": 0.15,
+  "ReloadTime": 1.8,
+  "Damage": {
+    "Humanoid": 19,
+    "Car": 5
+  },
+  "HipFireSpread": 0.95,
+  "AimDownSpread": 0.55,
+  "Recoil": {
+    "RecoverySpeed": 8.5,
+    "Pitch": {
+      "x": 0.8,
+      "y": 1.1
+    },
+    "Yaw": {
+      "x": 0.12,
+      "y": 0.3
+    }
+  },
+  "Projectile": {
+    "Speed": 1900,
+    "Gravity": 18,
+    "MaxTime": 12
+  },
+  "ScopeGui": null,
+  "AimDownFOV": 50,
+  "BulletsShot": 1,
+  "Burst": null
+}

@@ -1,0 +1,38 @@
+{
+  "Id": "longwatch-sniper",
+  "DisplayName": "Longwatch Sniper",
+  "FireRate": 1.25,
+  "FireModes": [
+    "Bolt"
+  ],
+  "MagazineCapacity": 5,
+  "MagazineCount": 6,
+  "AimDownTime": 0.45,
+  "ReloadTime": 3.1,
+  "Damage": {
+    "Humanoid": 90,
+    "Car": 45
+  },
+  "HipFireSpread": 3.5,
+  "AimDownSpread": 0.05,
+  "Recoil": {
+    "RecoverySpeed": 1.6,
+    "Pitch": {
+      "x": 4,
+      "y": 5.5
+    },
+    "Yaw": {
+      "x": 0.3,
+      "y": 0.8
+    }
+  },
+  "Projectile": {
+    "Speed": 3600,
+    "Gravity": 12,
+    "MaxTime": 25
+  },
+  "ScopeGui": "ReplicatedStorage.Guis.Scopes.Sniper",
+  "AimDownFOV": 15,
+  "BulletsShot": 1,
+  "Burst": null
+}

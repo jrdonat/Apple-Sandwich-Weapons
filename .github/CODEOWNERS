@@ -1,1 +1,7 @@
+# Tooling, workflows, configuration, documentation, and repository policy are
+# maintained by @jrdonat. This rule also protects CODEOWNERS itself.
 * @jrdonat
+
+# Weapon-stat JSON is intentionally unowned. Any collaborator with write access
+# may approve changes that are limited to these game-data files.
+/HF\ -\ Weapons/**/*.json

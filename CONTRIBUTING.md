@@ -136,3 +136,7 @@ Only configured sources are scanned. `tools`, `tests`, `dist`, `.github`, `impor
 ## Pull requests
 
 Keep each change focused. Before opening or updating a pull request, run `npm test` and `npm run validate`, explain any intentionally unusual stat representation, and confirm generated `dist/` files are not staged.
+
+Weapon-stat JSON below `HF - Weapons/` is intentionally left without a code owner, so any collaborator with write access can review stat-only changes. Every other path—including tooling, workflows, configuration, documentation, and `.github/CODEOWNERS` itself—is owned by `@jrdonat`. A pull request that changes both weapon JSON and any other file therefore requests review from `@jrdonat`.
+
+To make that review a merge requirement rather than only a visible review request, enable **Require review from Code Owners** in the protection rule or ruleset for `main`.

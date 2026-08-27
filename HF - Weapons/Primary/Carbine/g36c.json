@@ -9,7 +9,7 @@
   "Cost": 800,
   "Damage": {
     "Car": 5,
-    "Humanoid": 18
+    "Humanoid": 14
   },
   "Description": "Popular with law enforcement and security, most notably Cascadian Airport Security and Urban Gendarmerie forces.",
   "DisplayName": "G36C",

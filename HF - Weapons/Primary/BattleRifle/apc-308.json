@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.17,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 5000,
+  "Damage": {
+    "Car": 50,
+    "Humanoid": 19
+  },
+  "Description": "A commercially available high calibre rifle, replacing the SG 542 for the Cascadian Police, nationwide.",
+  "DisplayName": "APC 308",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.5,
+  "Id": "apc-308",
+  "MagazineCapacity": 20,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 3100
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.8,
+      "y": 1.95
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.215
+    }
+  },
+  "ReloadTime": 2.43,
+  "SprintReloadMult": 0.65
+}

@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 52500,
+  "Damage": {
+    "Car": 35,
+    "Humanoid": 22
+  },
+  "Description": "Extensively useed by Babayaga; this rifles stopping power is notoriously deadly, and quiet.",
+  "DisplayName": "ASh-12",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.105,
+  "HipFireSpread": 1.35,
+  "Id": "ash-12",
+  "MagazineCapacity": 20,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2200
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2,
+      "y": 1.55
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 3.45,
+  "SprintReloadMult": 0.65
+}

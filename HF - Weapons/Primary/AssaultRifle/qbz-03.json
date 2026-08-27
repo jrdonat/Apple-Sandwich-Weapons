@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.17,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1750,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 15
+  },
+  "Description": "The Laogang Dynasties are considering this as a replacement rifle.",
+  "DisplayName": "QBZ-03",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.105,
+  "HipFireSpread": 1.8,
+  "Id": "qbz-03",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2530
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.25,
+      "y": 1.655
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 1.625,
+  "SprintReloadMult": 0.75
+}

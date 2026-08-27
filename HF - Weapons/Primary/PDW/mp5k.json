@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.12,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 2,
+    "Humanoid": 10
+  },
+  "Description": "Often used by pilots and close protection bodyguards.",
+  "DisplayName": "MP5K",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.097,
+  "HipFireSpread": 1.21,
+  "Id": "mp5k",
+  "MagazineCapacity": 30,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 1300
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.1,
+      "y": 1.2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 1.5,
+  "Special": true,
+  "SprintReloadMult": 1
+}

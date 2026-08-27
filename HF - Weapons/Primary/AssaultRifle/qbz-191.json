@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.26,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 2750,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 16
+  },
+  "Description": "Another potential replacement within the Laogang Dynasties.",
+  "DisplayName": "QBZ-191",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.25,
+  "Id": "qbz-191",
+  "MagazineCapacity": 30,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2700
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.351,
+      "y": 1.22
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.1
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.75
+}

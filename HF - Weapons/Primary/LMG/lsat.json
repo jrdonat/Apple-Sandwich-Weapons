@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.25,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 3000,
+  "Damage": {
+    "Car": 13,
+    "Humanoid": 13.5
+  },
+  "Description": "A prototype LMG, used by Aster and the Rock Special Forces.",
+  "DisplayName": "LSAT",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.12,
+  "HipFireSpread": 0.9,
+  "Id": "lsat",
+  "MagazineCapacity": 100,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2550
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 0.25,
+      "y": 0.45
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 4,
+  "SprintReloadMult": 0.5
+}

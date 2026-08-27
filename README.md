@@ -6,24 +6,25 @@ Roblox and Luau integration are intentionally outside this repository's current 
 
 ## Current game hierarchy
 
-`games.json` currently maps the stable slug `hf-weapons` to `HF - Weapons/`. Each current weapon category contains one fictional sample weapon derived from the structure of live production settings:
+`games.json` currently maps the stable slug `hf-weapons` to `HF - Weapons/`. The repository contains 152 live weapons extracted from the production `ReplicatedStorage.ToolInfo` model:
 
 ```text
 HF - Weapons/
 ├── Primary/
-│   ├── AssaultRifle/sentinel-ar.json
-│   ├── Carbine/compact-carbine.json
-│   ├── DMR/vanguard-dmr.json
-│   ├── LMG/atlas-lmg.json
-│   ├── PDW/specter-pdw.json
-│   ├── Shotgun/breacher-shotgun.json
-│   └── Sniper/longwatch-sniper.json
-└── Secondary/service-pistol.json
+│   ├── AssaultRifle/  (28 weapons)
+│   ├── BattleRifle/   (15 weapons)
+│   ├── Carbine/       (14 weapons)
+│   ├── DMR/           (10 weapons)
+│   ├── LMG/           (12 weapons)
+│   ├── PDW/           (18 weapons)
+│   ├── Shotgun/       (11 weapons)
+│   └── Sniper/        (23 weapons)
+└── Secondary/         (21 weapons)
 ```
 
 Folder names are preserved exactly in generated payloads. A weapon's folder supplies its slot and category, so weapon files do not duplicate that information with `slot` or `category` fields.
 
-The samples preserve the live setting names and nesting where JSON supports them. Luau `nil` values become JSON `null`, `Vector2` values become `{ "x", "y" }` objects, runtime-only `Module` references are omitted, and Roblox instance references are represented by stable string paths.
+Each file combines its live ToolInfo metadata—such as description, cost, game-pass status, and sprint-reload multiplier—with its settings module. Stable lowercase IDs were generated from the live display names. Luau `nil` values become JSON `null`, `Vector2` values become `{ "x", "y" }` objects, runtime-only `Module` references are omitted, and Roblox instance references are represented by stable string paths.
 
 ## Generated payloads
 
@@ -40,16 +41,16 @@ Each configured game produces one output under the ignored `dist/` directory. `h
   "Weapons": {
     "Primary": {
       "AssaultRifle": {
-        "sentinel-ar": {
-          "Id": "sentinel-ar",
-          "DisplayName": "Sentinel AR"
+        "ak-12": {
+          "Id": "ak-12",
+          "DisplayName": "AK-12"
         }
       }
     },
     "Secondary": {
-      "service-pistol": {
-        "Id": "service-pistol",
-        "DisplayName": "Service Pistol"
+      "g17": {
+        "Id": "g17",
+        "DisplayName": "G17"
       }
     }
   }
@@ -72,4 +73,4 @@ One-time repository setup is required: open **Settings → Pages**, set **Build 
 
 ## Contributing
 
-See [contributors.md](contributors.md) for weapon-file rules, live Luau conversion guidance, local commands, bulk imports, future-game configuration, validation troubleshooting, and pull request expectations.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for weapon-file rules, live Luau conversion guidance, local commands, bulk imports, future-game configuration, validation troubleshooting, and pull request expectations.

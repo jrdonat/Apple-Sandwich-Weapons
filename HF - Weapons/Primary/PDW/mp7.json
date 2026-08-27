@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.11,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 32500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 12
+  },
+  "Description": "Popular with special forces and police, this PDW has seen success after success, with even more potential ahead.",
+  "DisplayName": "MP7",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.07,
+  "HipFireSpread": 1.15,
+  "Id": "mp7",
+  "MagazineCapacity": 40,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.6,
+      "y": 1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.12,
+  "SprintReloadMult": 1
+}

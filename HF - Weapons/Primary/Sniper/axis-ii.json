@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.06,
+  "AimDownTime": 0.5,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 750,
+  "Damage": {
+    "Car": 50,
+    "Humanoid": 80
+  },
+  "Description": "An elite sporting rifle, seen popular use by anti-government forces in Laogang.",
+  "DisplayName": "Axis II",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.65,
+  "HipFireSpread": 1.25,
+  "Id": "axis-ii",
+  "MagazineCapacity": 4,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3600
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.25,
+      "y": 2.15
+    },
+    "RecoverySpeed": 0.45,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 3.25,
+  "SprintReloadMult": 0.5
+}

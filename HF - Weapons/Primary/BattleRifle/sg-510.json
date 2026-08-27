@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.23,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1250,
+  "Damage": {
+    "Car": 35,
+    "Humanoid": 16.5
+  },
+  "Description": "Used by the Presidential Guard of the Afonso Republic, this weapon has just about everything, but ergonomics.",
+  "DisplayName": "SG 510",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.11,
+  "HipFireSpread": 1.12,
+  "Id": "sg-510",
+  "MagazineCapacity": 24,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2,
+      "y": 1.45
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 2.7,
+  "SprintReloadMult": 0.65
+}

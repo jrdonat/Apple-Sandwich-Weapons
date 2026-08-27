@@ -1,0 +1,44 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 35000,
+  "Damage": {
+    "Car": 5,
+    "Humanoid": 15
+  },
+  "Description": "Used back in the day as a favourite weapon within Marine special forces, this weapon is now considered a valuable collectable.",
+  "DisplayName": "MP5SD",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.095,
+  "HipFireSpread": 1.37,
+  "Id": "mp5sd",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Projectile": "ReplicatedStorage.Assets.SilencedBullet",
+    "Speed": 1500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1,
+      "y": 1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.3,
+      "y": 0.3
+    }
+  },
+  "ReloadTime": 2.92,
+  "SprintReloadMult": 1
+}

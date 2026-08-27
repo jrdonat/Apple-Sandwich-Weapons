@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.17,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 20000,
+  "Damage": {
+    "Car": 20,
+    "Humanoid": 17
+  },
+  "Description": "Popular with pirates for its compact size, makes clearing boat decks a breeze.",
+  "DisplayName": "HK51",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.67,
+  "Id": "hk51",
+  "MagazineCapacity": 20,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2300
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.31,
+      "y": 2.62
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 2.15,
+  "SprintReloadMult": 0.65
+}

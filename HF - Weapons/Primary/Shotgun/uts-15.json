@@ -1,0 +1,46 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.115,
+  "BulletsShot": 12,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1600,
+  "Damage": {
+    "Car": 3,
+    "Humanoid": 8
+  },
+  "Description": "Used extensively by Yusanavian combat engineers in the field.",
+  "DisplayName": "UTS-15",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.35,
+  "HipFireSpread": {
+    "x": 3.3,
+    "y": 3.75
+  },
+  "Id": "uts-15",
+  "MagazineCapacity": 14,
+  "MagazineCount": 4,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 1,
+    "Speed": 830
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1,
+      "y": 1.4
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.45,
+      "y": 1.2
+    }
+  },
+  "ReloadTime": 2.8,
+  "SprintReloadMult": 0.65
+}

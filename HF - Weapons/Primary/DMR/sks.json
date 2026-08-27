@@ -1,0 +1,41 @@
+{
+  "AimDownSpread": 0.5,
+  "AimDownTime": 0.1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 20,
+    "Humanoid": 22
+  },
+  "Description": "Used all over Freefire by nomads and bandits, often for hunting, usually people.",
+  "DisplayName": "SKS",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 2.3,
+  "Id": "sks",
+  "MagazineCapacity": 10,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2600
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.25,
+      "y": 1.63
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.45
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

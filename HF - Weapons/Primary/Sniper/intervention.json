@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.07,
+  "AimDownTime": 0.7,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 3750,
+  "Damage": {
+    "Car": 100,
+    "Humanoid": 80
+  },
+  "Description": "Originally thought to be a contender for the best, this rifle found little success, save for Templar service.",
+  "DisplayName": "Intervention",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.75,
+  "HipFireSpread": 3,
+  "Id": "intervention",
+  "MagazineCapacity": 7,
+  "MagazineCount": 4,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 4300
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 3.5,
+      "y": 2.5
+    },
+    "RecoverySpeed": 0.75,
+    "Yaw": {
+      "x": 0.45,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.5
+}

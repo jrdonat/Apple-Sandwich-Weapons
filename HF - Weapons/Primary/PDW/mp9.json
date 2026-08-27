@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.16,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 3000,
+  "Damage": {
+    "Car": 3,
+    "Humanoid": 12.55
+  },
+  "Description": "Used by police forces world wide for its compact frame and reliability, replacing aging MP5s.",
+  "DisplayName": "MP9",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.09,
+  "HipFireSpread": 1.25,
+  "Id": "mp9",
+  "MagazineCapacity": 25,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 1400
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.25,
+      "y": 1.25
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 2.7,
+  "SprintReloadMult": 1
+}

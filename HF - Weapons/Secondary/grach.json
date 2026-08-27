@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 2500,
+  "Damage": {
+    "Car": 6,
+    "Humanoid": 14.5
+  },
+  "Description": "Standard issue pistol for the Yusanavian Alliance, rollout has been slow due to the war.",
+  "DisplayName": "Grach",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.105,
+  "HipFireSpread": 1.2,
+  "Id": "grach",
+  "MagazineCapacity": 17,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1600
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.25,
+      "y": 3.45
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

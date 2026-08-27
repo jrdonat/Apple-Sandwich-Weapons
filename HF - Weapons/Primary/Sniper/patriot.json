@@ -1,0 +1,41 @@
+{
+  "AimDownSpread": 0.075,
+  "AimDownTime": 0.6,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 40,
+    "Humanoid": 70
+  },
+  "Description": "A common hunting rifle in temperate climates.",
+  "DisplayName": "Patriot",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.25,
+  "HipFireSpread": 1,
+  "Id": "patriot",
+  "MagazineCapacity": 6,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3400
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.2,
+      "y": 1.8
+    },
+    "RecoverySpeed": 0.5,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 3.5,
+  "SprintReloadMult": 0.5
+}

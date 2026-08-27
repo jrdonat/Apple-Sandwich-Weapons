@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.3,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 57500,
+  "Damage": {
+    "Car": 5,
+    "Humanoid": 11
+  },
+  "Description": "A firerate to envy; this PDW has seen extensive mercenary use, with demand increasing for its production.",
+  "DisplayName": "Vector",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.055,
+  "HipFireSpread": 1.2,
+  "Id": "vector",
+  "MagazineCapacity": 40,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2000
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1,
+      "y": 1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 2.8,
+  "SprintReloadMult": 1
+}

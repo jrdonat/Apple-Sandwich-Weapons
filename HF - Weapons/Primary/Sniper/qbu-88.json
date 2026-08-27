@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.1,
+  "AimDownTime": 0.4,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1800,
+  "Damage": {
+    "Car": 50,
+    "Humanoid": 45
+  },
+  "Description": "Standard marksman system for Laogang Dynasty forces, its polymer frame has caused issues in arid environments.",
+  "DisplayName": "QBU-88",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.8,
+  "HipFireSpread": 1.5,
+  "Id": "qbu-88",
+  "MagazineCapacity": 10,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3700
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2,
+      "y": 2
+    },
+    "RecoverySpeed": 0.2,
+    "Yaw": {
+      "x": 0.55,
+      "y": 0.55
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.5
+}

@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.095,
+  "AimDownTime": 0.5,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 37250,
+  "Damage": {
+    "Car": 70,
+    "Humanoid": 78
+  },
+  "Description": "Seeing common use by Security Forces near the equatorial desert regions.",
+  "DisplayName": "DTSRS",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.25,
+  "HipFireSpread": 2.2,
+  "Id": "dtsrs",
+  "MagazineCapacity": 7,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 4600
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.6,
+      "y": 2
+    },
+    "RecoverySpeed": 0.6,
+    "Yaw": {
+      "x": 0.215,
+      "y": 0.225
+    }
+  },
+  "ReloadTime": 3.15,
+  "SprintReloadMult": 0.5
+}

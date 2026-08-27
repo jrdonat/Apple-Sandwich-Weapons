@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.3,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 500,
+  "Damage": {
+    "Car": 8,
+    "Humanoid": 10
+  },
+  "Description": "Yusanavian made, but popular with Laogang. Now used by pirates for its high fire rate.",
+  "DisplayName": "RPD",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.087,
+  "HipFireSpread": 2.1,
+  "Id": "rpd",
+  "MagazineCapacity": 125,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2200
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.75,
+      "y": 1.75
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.35,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 4,
+  "SprintReloadMult": 0.5
+}

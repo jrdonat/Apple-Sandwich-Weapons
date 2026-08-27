@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.085,
+  "AimDownTime": 0.5,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 12500,
+  "Damage": {
+    "Car": 70,
+    "Humanoid": 80
+  },
+  "Description": "A hard hitting rifle, the RS9 sees use commonly with the Cascadian Marines and special forces globally.",
+  "DisplayName": "RS9",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.35,
+  "HipFireSpread": 2.2,
+  "Id": "rs9",
+  "MagazineCapacity": 10,
+  "MagazineCount": 4,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 4300
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 6.2,
+      "y": 8.15
+    },
+    "RecoverySpeed": 0.75,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.45
+    }
+  },
+  "ReloadTime": 3.35,
+  "SprintReloadMult": 0.5
+}

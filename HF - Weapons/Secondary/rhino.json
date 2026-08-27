@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 15,
+    "Humanoid": 35
+  },
+  "Description": "A powerful revolver, sending 6 powerful messages.",
+  "DisplayName": "Rhino",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.2,
+  "GamePass": true,
+  "HipFireSpread": 2.4,
+  "Id": "rhino",
+  "MagazineCapacity": 6,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1700
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2,
+      "y": 3
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

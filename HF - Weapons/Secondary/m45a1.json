@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.225,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 15000,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 19
+  },
+  "Description": "An updated M1911A1 pistol, the M45A1 is famous for its use by independent security and bodyguard firms.",
+  "DisplayName": "M45A1",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.07,
+  "HipFireSpread": 1.75,
+  "Id": "m45a1",
+  "MagazineCapacity": 7,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1450
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.85,
+      "y": 3.9
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.45
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

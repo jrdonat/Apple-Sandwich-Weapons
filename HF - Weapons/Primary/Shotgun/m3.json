@@ -1,0 +1,46 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.25,
+  "BulletsShot": 20,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 5500,
+  "Damage": {
+    "Car": 1,
+    "Humanoid": 3
+  },
+  "Description": "Standard service shotgun used by Cascadian Engineers and Breachers. Fearsome, proud, and very very loud.",
+  "DisplayName": "M3",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.2,
+  "HipFireSpread": {
+    "x": 2.85,
+    "y": 3.45
+  },
+  "Id": "m3",
+  "MagazineCapacity": 8,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 1,
+    "Speed": 900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.75,
+      "y": 1.55
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.75,
+      "y": 0.85
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

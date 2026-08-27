@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.03,
+  "AimDownTime": 0.7,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 220,
+    "Humanoid": 95
+  },
+  "Description": "Used by Cascadian Marines and Navy snipers for shooting the engines off of small watercraft.",
+  "DisplayName": "AX50",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.75,
+  "GamePass": true,
+  "HipFireSpread": 1.2,
+  "Id": "ax50",
+  "MagazineCapacity": 5,
+  "MagazineCount": 4,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 4700
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 3.5,
+      "y": 3.5
+    },
+    "RecoverySpeed": 0.65,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.45
+    }
+  },
+  "ReloadTime": 3.85,
+  "SprintReloadMult": 0.5
+}

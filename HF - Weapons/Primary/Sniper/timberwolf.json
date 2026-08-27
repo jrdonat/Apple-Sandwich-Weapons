@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.24,
+  "AimDownTime": 0.3,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 8500,
+  "Damage": {
+    "Car": 40,
+    "Humanoid": 90
+  },
+  "Description": "Used by Cascadian Jaegers, this weapon has garnered a reputation of extreme precision and reliability.",
+  "DisplayName": "Timberwolf",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.155,
+  "HipFireSpread": 2.2,
+  "Id": "timberwolf",
+  "MagazineCapacity": 5,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 4100
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2,
+      "y": 3.2
+    },
+    "RecoverySpeed": 0.45,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.75
+    }
+  },
+  "ReloadTime": 1.5,
+  "SprintReloadMult": 0.5
+}

@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 13.5
+  },
+  "Description": "A common service rifle in the northern hemisphere.",
+  "DisplayName": "FNC",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.32,
+  "Id": "fnc",
+  "MagazineCapacity": 30,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2400
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2,
+      "y": 2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.072,
+  "SprintReloadMult": 0.75
+}

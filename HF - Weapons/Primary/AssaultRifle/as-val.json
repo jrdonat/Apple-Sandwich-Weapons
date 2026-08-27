@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.11,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 6750,
+  "Damage": {
+    "Car": 8,
+    "Humanoid": 15
+  },
+  "Description": "Favoured by Yusanavian Babayaga units for its silent lethality.",
+  "DisplayName": "AS Val",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.09,
+  "HipFireSpread": 1.2,
+  "Id": "as-val",
+  "MagazineCapacity": 30,
+  "MagazineCount": 9,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 1950
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.2,
+      "y": 1.3
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.2
+    }
+  },
+  "ReloadTime": 2.35,
+  "SprintReloadMult": 0.75
+}

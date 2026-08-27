@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.15,
+  "AimDownTime": 0.1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1750,
+  "Damage": {
+    "Car": 30,
+    "Humanoid": 24
+  },
+  "Description": "Popular with special forces, with interchangability with their HK416 weapons.",
+  "DisplayName": "HK417",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.115,
+  "HipFireSpread": 1.5,
+  "Id": "hk417",
+  "MagazineCapacity": 10,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3000
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.45,
+      "y": 1.75
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

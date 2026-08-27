@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.09,
+  "AimDownTime": 0.4,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1750,
+  "Damage": {
+    "Car": 70,
+    "Humanoid": 65
+  },
+  "Description": "Standard issue bolt action rifle of the Yusanavian Alliance, with limited export success.",
+  "DisplayName": "SV-98",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.85,
+  "HipFireSpread": 2,
+  "Id": "sv-98",
+  "MagazineCapacity": 10,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 3,
+      "y": 3
+    },
+    "RecoverySpeed": 0.35,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.5,
+  "SprintReloadMult": 0.5
+}

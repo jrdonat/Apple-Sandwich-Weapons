@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.3,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1750,
+  "Damage": {
+    "Car": 30,
+    "Humanoid": 18.55
+  },
+  "Description": "Formerly used by Cascadian Police in rural areas, used against large roving bands of bears in the north.",
+  "DisplayName": "SG 542",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.115,
+  "HipFireSpread": 1.26,
+  "Id": "sg-542",
+  "MagazineCapacity": 30,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.72,
+      "y": 2.2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 2.75,
+  "SprintReloadMult": 0.65
+}

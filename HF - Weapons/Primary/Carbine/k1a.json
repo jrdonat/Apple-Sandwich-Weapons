@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.3,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 250,
+  "Damage": {
+    "Car": 5,
+    "Humanoid": 16
+  },
+  "Description": "Used by Dynasty Port Police, this carbine sees extensive use in the neon jungle ports of the Laogang Dynasties.",
+  "DisplayName": "K1A",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.0892,
+  "HipFireSpread": 0.8,
+  "Id": "k1a",
+  "MagazineCapacity": 30,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2200
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.35,
+      "y": 1.8
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.2,
+  "SprintReloadMult": 1
+}

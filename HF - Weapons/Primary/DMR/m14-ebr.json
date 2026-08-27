@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.14,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 42500,
+  "Damage": {
+    "Car": 40,
+    "Humanoid": 27
+  },
+  "Description": "A highly modernised M14, often seen by Ellerman Templar units and Afonso Republic recon squads.",
+  "DisplayName": "M14 EBR",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.11,
+  "HipFireSpread": 1.2,
+  "Id": "m14-ebr",
+  "MagazineCapacity": 20,
+  "MagazineCount": 4,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3300
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.25,
+      "y": 1.25
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

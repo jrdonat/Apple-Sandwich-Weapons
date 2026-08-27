@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": 0.05,
+  "AimDownTime": 0.35,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 157000,
+  "Damage": {
+    "Armor": 85,
+    "Car": 380,
+    "Humanoid": 100
+  },
+  "Description": "This gun does not support any attachments. A colossal .700 Nitro Express round, this weapon is a Cascadian proof of concept for the application of modern anti armour technology.",
+  "DisplayName": "BW-5",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.35,
+  "HipFireSpread": 2.9,
+  "Id": "bw-5",
+  "MagazineCapacity": 2,
+  "MagazineCount": 12,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 5200
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 5.25,
+      "y": 5.25
+    },
+    "RecoverySpeed": 0.2,
+    "Yaw": {
+      "x": 0.35,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 2.8,
+  "SprintReloadMult": 0.5
+}

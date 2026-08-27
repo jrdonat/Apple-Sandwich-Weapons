@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.16,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1750,
+  "Damage": {
+    "Car": 3,
+    "Humanoid": 10.5
+  },
+  "Description": "The most successful PDW / SMG ever produced, used by almost all state actors, with good reason.",
+  "DisplayName": "MP5",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.092,
+  "HipFireSpread": 1.32,
+  "Id": "mp5",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.4,
+      "y": 1.2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.2
+    }
+  },
+  "ReloadTime": 1.5,
+  "SprintReloadMult": 1
+}

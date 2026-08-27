@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 6500,
+  "Damage": {
+    "Car": 8,
+    "Humanoid": 13
+  },
+  "Description": "If it were not for the cost of the ammo, this weapon would see a lot more use. Used by Cascadian Presidential Security.",
+  "DisplayName": "P90",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.072,
+  "HipFireSpread": 2.2,
+  "Id": "p90",
+  "MagazineCapacity": 50,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2100
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.35,
+      "y": 1.8
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.12,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 3.12,
+  "SprintReloadMult": 1
+}

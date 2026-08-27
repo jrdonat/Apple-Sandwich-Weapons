@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 50750,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 18
+  },
+  "Description": "A pre-production rifle, aiming to introduce new technologies to the field.",
+  "DisplayName": "RM277",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 0.8,
+  "Id": "rm277",
+  "MagazineCapacity": 25,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 3100
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.5,
+      "y": 1.6
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.45
+    }
+  },
+  "ReloadTime": 1.82,
+  "SprintReloadMult": 0.75
+}

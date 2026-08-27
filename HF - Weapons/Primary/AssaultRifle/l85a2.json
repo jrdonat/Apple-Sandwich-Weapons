@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.17,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 5250,
+  "Damage": {
+    "Car": 30,
+    "Humanoid": 14.5
+  },
+  "Description": "A troubled past, this service weapon has seen upgrade after upgrade.",
+  "DisplayName": "L85A2",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 0.7,
+  "Id": "l85a2",
+  "MagazineCapacity": 28,
+  "MagazineCount": 9,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2720
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.26,
+      "y": 1.51
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.35,
+      "y": 0.2
+    }
+  },
+  "ReloadTime": 1.765,
+  "SprintReloadMult": 0.75
+}

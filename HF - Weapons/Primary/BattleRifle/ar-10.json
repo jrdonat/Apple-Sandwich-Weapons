@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 500,
+  "Damage": {
+    "Car": 35,
+    "Humanoid": 18
+  },
+  "Description": "Made its debut with the Holy States during their campaigns against the Laogang Dynasties.",
+  "DisplayName": "AR-10",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.11,
+  "HipFireSpread": 1.56,
+  "Id": "ar-10",
+  "MagazineCapacity": 20,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2425
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.1,
+      "y": 2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.3,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 2.142,
+  "SprintReloadMult": 0.65
+}

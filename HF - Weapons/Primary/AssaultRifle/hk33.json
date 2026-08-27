@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.17,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1000,
+  "Damage": {
+    "Car": 18,
+    "Humanoid": 12
+  },
+  "Description": "Extensively used by Freefire Bandits, Pirates and Mercenaries.",
+  "DisplayName": "HK33",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.105,
+  "HipFireSpread": 1.36,
+  "Id": "hk33",
+  "MagazineCapacity": 30,
+  "MagazineCount": 9,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2600
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.15,
+      "y": 2.1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.45
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 0.75
+}

@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 5000,
+  "Damage": {
+    "Car": 7,
+    "Humanoid": 11.25
+  },
+  "Description": "Commonly used by Freefire Warlord biker recon teams.",
+  "DisplayName": "Micro Uzi",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.09,
+  "HipFireSpread": 1.25,
+  "Id": "micro-uzi",
+  "MagazineCapacity": 32,
+  "MagazineCount": 9,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1325
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.3,
+      "y": 3.25
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.125,
+      "y": 0.315
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

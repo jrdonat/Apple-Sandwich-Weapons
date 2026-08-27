@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 400,
+  "Damage": {
+    "Car": 5,
+    "Humanoid": 9
+  },
+  "Description": "Used by city states and the Ellerman, this PDW although aging, still shows potential.",
+  "DisplayName": "Colt 9mm",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.62,
+  "Id": "colt-9mm",
+  "MagazineCapacity": 32,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 1750
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.45,
+      "y": 1.32
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 1
+}

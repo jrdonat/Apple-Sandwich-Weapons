@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.175,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 12500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 17
+  },
+  "Description": "An extremely popular GPMG, seen extensively by gun teams and door gunners.",
+  "DisplayName": "M240B",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.095,
+  "HipFireSpread": 1.5,
+  "Id": "m240b",
+  "MagazineCapacity": 120,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2700
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.4,
+      "y": 1.4
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 4,
+  "SprintReloadMult": 0.5
+}

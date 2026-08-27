@@ -1,0 +1,44 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.35,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.1,
+    "Interval": 0.065
+  },
+  "Cost": 9500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 17
+  },
+  "Description": "The service weapon of the Cascadian Defence Force, soon to be retired, yet still lethal.",
+  "DisplayName": "C7A2L",
+  "FireModes": [
+    "Auto",
+    "Burst",
+    "Semi"
+  ],
+  "FireRate": 0.09,
+  "HipFireSpread": 0.8,
+  "Id": "c7a2l",
+  "MagazineCapacity": 30,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 3000
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.1,
+      "y": 1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.4,
+      "y": 0.1
+    }
+  },
+  "ReloadTime": 2.35,
+  "SprintReloadMult": 0.75
+}

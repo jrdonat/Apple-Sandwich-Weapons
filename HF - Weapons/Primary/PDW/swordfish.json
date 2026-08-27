@@ -1,0 +1,44 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 2,
+    "Cooldown": 0.125,
+    "Interval": 0.035
+  },
+  "Cost": 67500,
+  "Damage": {
+    "Car": 6,
+    "Humanoid": 13
+  },
+  "Description": "Cascadian Prototype PDW based on the MP5 platform, seeing trials with the infamous Black Daggers.",
+  "DisplayName": "SWORDFISH",
+  "FireModes": [
+    "Auto",
+    "Burst",
+    "Semi"
+  ],
+  "FireRate": 0.065,
+  "HipFireSpread": 1.1,
+  "Id": "swordfish",
+  "MagazineCapacity": 35,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2300
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 0.85,
+      "y": 0.85
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.125,
+      "y": 0.125
+    }
+  },
+  "ReloadTime": 2.2,
+  "SprintReloadMult": 1
+}

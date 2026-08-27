@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.18,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 42500,
+  "Damage": {
+    "Car": 30,
+    "Humanoid": 16
+  },
+  "Description": "Produced by one of Yusanavia's longstanding allies, this rifle is seen with mountaineering troops.",
+  "DisplayName": "Zastava M17",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.095,
+  "HipFireSpread": 1.5,
+  "Id": "zastava-m17",
+  "MagazineCapacity": 30,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2700
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.25,
+      "y": 1.6
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.55
+    }
+  },
+  "ReloadTime": 3.35,
+  "SprintReloadMult": 0.65
+}

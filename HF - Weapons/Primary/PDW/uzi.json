@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.25,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 500,
+  "Damage": {
+    "Car": 5,
+    "Humanoid": 10
+  },
+  "Description": "Infamously used in numerous assassination attempts globally, the Uzi has a reputation.",
+  "DisplayName": "Uzi",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.12,
+  "HipFireSpread": 1.5,
+  "Id": "uzi",
+  "MagazineCapacity": 32,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 1400
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 0.65,
+      "y": 1.2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.1
+    }
+  },
+  "ReloadTime": 3.15,
+  "SprintReloadMult": 1
+}

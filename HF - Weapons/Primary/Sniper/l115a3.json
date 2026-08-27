@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.05,
+  "AimDownTime": 0.42,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 65000,
+  "Damage": {
+    "Car": 180,
+    "Humanoid": 95
+  },
+  "Description": "Standard sniper rifle across the Cascadian Army, primarily within mechanised and heavier infantry regiments.",
+  "DisplayName": "L115A3",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.35,
+  "HipFireSpread": 2.6,
+  "Id": "l115a3",
+  "MagazineCapacity": 5,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 4600
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 4.7,
+      "y": 4.7
+    },
+    "RecoverySpeed": 0.75,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 2.75,
+  "SprintReloadMult": 0.5
+}

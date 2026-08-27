@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.15,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.12,
+    "Interval": 0.07
+  },
+  "Cost": 750,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 13
+  },
+  "Description": "Adopted by the Holy States of Ellerman, a reliable, if dated platform.",
+  "DisplayName": "M16A2",
+  "FireModes": [
+    "Burst",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 0.7,
+  "Id": "m16a2",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2730
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.27,
+      "y": 1.42
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.3,
+      "y": 0.145
+    }
+  },
+  "ReloadTime": 2.15,
+  "SprintReloadMult": 0.75
+}

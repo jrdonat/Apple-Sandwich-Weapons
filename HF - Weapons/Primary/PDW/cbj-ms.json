@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1500,
+  "Damage": {
+    "Car": 1,
+    "Humanoid": 7
+  },
+  "Description": "Originally seen as a cheaper weapon for Cascadian tank crews, it was never fully adopted.",
+  "DisplayName": "CBJ-MS",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.09,
+  "HipFireSpread": 1.8,
+  "Id": "cbj-ms",
+  "MagazineCapacity": 100,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 1100
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.2,
+      "y": 1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

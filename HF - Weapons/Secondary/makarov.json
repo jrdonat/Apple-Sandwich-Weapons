@@ -1,0 +1,41 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.15,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 3,
+    "Humanoid": 15
+  },
+  "Description": "Former standard issue pistol of the Yusanavian Alliance, now popular with smugglers.",
+  "DisplayName": "Makarov",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.3,
+  "Id": "makarov",
+  "MagazineCapacity": 8,
+  "MagazineCount": 10,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1610
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 3.1,
+      "y": 3.2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.275
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

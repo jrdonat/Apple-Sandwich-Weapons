@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.045,
+  "AimDownTime": 0.35,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 7200,
+  "Damage": {
+    "Car": 60,
+    "Humanoid": 75
+  },
+  "Description": "Standard issue infantry sniper rifle for Cascadian light infantry companies, also the most popular hunting rifle in the country.",
+  "DisplayName": "Sako TRG",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1,
+  "HipFireSpread": 1.5,
+  "Id": "sako-trg",
+  "MagazineCapacity": 7,
+  "MagazineCount": 4,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.25,
+      "y": 1.24
+    },
+    "RecoverySpeed": 0.15,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.55
+    }
+  },
+  "ReloadTime": 1.5,
+  "SprintReloadMult": 0.5
+}

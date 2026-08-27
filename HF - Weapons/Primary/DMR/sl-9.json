@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.07,
+  "AimDownTime": 0.1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1300,
+  "Damage": {
+    "Car": 12,
+    "Humanoid": 15
+  },
+  "Description": "A commercial semi-automatic rifle, popular with hunting small game in large numbers.",
+  "DisplayName": "SL-9",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.6,
+  "Id": "sl-9",
+  "MagazineCapacity": 30,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.15,
+      "y": 1.25
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

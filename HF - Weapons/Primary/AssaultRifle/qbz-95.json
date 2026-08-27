@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.22,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 14
+  },
+  "Description": "The standard service rifle of the Laogang Dynasties.",
+  "DisplayName": "QBZ-95",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.11,
+  "HipFireSpread": 1.5,
+  "Id": "qbz-95",
+  "MagazineCapacity": 30,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2200
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.53,
+      "y": 1.23
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.3,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.25,
+  "SprintReloadMult": 0.75
+}

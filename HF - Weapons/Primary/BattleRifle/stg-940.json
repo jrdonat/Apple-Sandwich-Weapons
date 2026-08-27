@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.15,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1400,
+  "Damage": {
+    "Car": 20,
+    "Humanoid": 17.5
+  },
+  "Description": "Used early by the Babayaga forces of Yusanavia, considered now a collectors item, a rare one at that.",
+  "DisplayName": "StG-940",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.11,
+  "HipFireSpread": 1.34,
+  "Id": "stg-940",
+  "MagazineCapacity": 30,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.1,
+      "y": 1.2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.3
+    }
+  },
+  "ReloadTime": 2.225,
+  "SprintReloadMult": 0.65
+}

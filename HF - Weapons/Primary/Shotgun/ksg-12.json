@@ -1,0 +1,46 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.125,
+  "BulletsShot": 12,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 2250,
+  "Damage": {
+    "Car": 2,
+    "Humanoid": 8
+  },
+  "Description": "Used by the Aster and the Rock Presidential Escort Service, it has proven its worth time and time again.",
+  "DisplayName": "KSG 12",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.3,
+  "HipFireSpread": {
+    "x": 3.2,
+    "y": 3.6
+  },
+  "Id": "ksg-12",
+  "MagazineCapacity": 14,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 1,
+    "Speed": 800
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1,
+      "y": 1.75
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.55,
+      "y": 0.55
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

@@ -1,0 +1,46 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.35,
+  "BulletsShot": 4,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1600,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 28
+  },
+  "Description": "Used by Yusanavia as a counter-sniper weapon, they found that it was also a great riot shotgun. Remember to switch shells.",
+  "DisplayName": "KS-23",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.525,
+  "HipFireSpread": {
+    "x": 1.8,
+    "y": 2.1
+  },
+  "Id": "ks-23",
+  "MagazineCapacity": 4,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 1,
+    "Speed": 1500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.45,
+      "y": 2.6
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 1.4,
+      "y": 1.25
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

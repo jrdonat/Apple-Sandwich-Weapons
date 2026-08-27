@@ -1,0 +1,44 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Armor": 3,
+    "Car": 60,
+    "Humanoid": 22
+  },
+  "Description": "A commercial weapon with limited military use, some soldiers bring this as a morale boosting weapon, and shoulder breaking.",
+  "DisplayName": "50 Beowulf",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.12,
+  "GamePass": true,
+  "HipFireSpread": 1.62,
+  "Id": "50-beowulf",
+  "MagazineCapacity": 15,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2100
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.75,
+      "y": 1.75
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.45
+    }
+  },
+  "ReloadTime": 3.45,
+  "SprintReloadMult": 1
+}

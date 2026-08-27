@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.165,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1650,
+  "Damage": {
+    "Car": 22,
+    "Humanoid": 18
+  },
+  "Description": "Limited use with Yusanavian interior security forces, for dealing with armoured targets.",
+  "DisplayName": "MPT 76",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.21,
+  "Id": "mpt-76",
+  "MagazineCapacity": 20,
+  "MagazineCount": 9,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 3100
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.11,
+      "y": 1.2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.3
+    }
+  },
+  "ReloadTime": 2.125,
+  "SprintReloadMult": 0.65
+}

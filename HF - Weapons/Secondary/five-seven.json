@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 25000,
+  "Damage": {
+    "Car": 3,
+    "Humanoid": 15
+  },
+  "Description": "Expensive but effective, this pistol sees use with Cascadian Presidential Security and Tactical Police.",
+  "DisplayName": "Five-seveN",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.06,
+  "HipFireSpread": 0.5,
+  "Id": "five-seven",
+  "MagazineCapacity": 20,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2225
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.25,
+      "y": 2.45
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

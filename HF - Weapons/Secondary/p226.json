@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.115,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 12500,
+  "Damage": {
+    "Car": 3,
+    "Humanoid": 16
+  },
+  "Description": "Standard issue sidearm of the Cascadian Army, reliable and hard hitting.",
+  "DisplayName": "P226",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.115,
+  "HipFireSpread": 1.3,
+  "Id": "p226",
+  "MagazineCapacity": 18,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1700
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.45,
+      "y": 2.55
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

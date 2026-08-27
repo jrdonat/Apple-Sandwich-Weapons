@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.212,
+  "AimDownTime": 0.27,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 81500,
+  "Damage": {
+    "Car": 45,
+    "Humanoid": 22
+  },
+  "Description": "A valued marksman rifle, this weapon sees extensive use with the Cascadians and Afonsan infantry platoons.",
+  "DisplayName": "L129A1",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.32,
+  "Id": "l129a1",
+  "MagazineCapacity": 20,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3700
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.35,
+      "y": 1.31
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.135,
+      "y": 0.145
+    }
+  },
+  "ReloadTime": 2.65,
+  "SprintReloadMult": 0.65
+}

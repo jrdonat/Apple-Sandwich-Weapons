@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 750,
+  "Damage": {
+    "Car": 6,
+    "Humanoid": 12.35
+  },
+  "Description": "Standard service pistol for the Laogang Dynasties. Not known for durability however.",
+  "DisplayName": "QSZ-92",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.11,
+  "HipFireSpread": 1.2,
+  "Id": "qsz-92",
+  "MagazineCapacity": 15,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1620
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.75,
+      "y": 2.45
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

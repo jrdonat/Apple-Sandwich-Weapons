@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.22,
+  "AimDownTime": 0.15,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 3250,
+  "Damage": {
+    "Car": 30,
+    "Humanoid": 23
+  },
+  "Description": "A powerful semi-automatic rifle seeing extensive use within heavy infantry units globally.",
+  "DisplayName": "SR-25",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.6,
+  "Id": "sr-25",
+  "MagazineCapacity": 20,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3000
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.1,
+      "y": 1.1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

@@ -1,0 +1,41 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.15,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 3,
+    "Humanoid": 15
+  },
+  "Description": "A comercial meme handgun, this pistol is a cheap self defence weapon.",
+  "DisplayName": "HPC9",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.55,
+  "Id": "hpc9",
+  "MagazineCapacity": 8,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2,
+      "y": 3
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

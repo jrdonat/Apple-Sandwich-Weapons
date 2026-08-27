@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": 0.17,
+  "AimDownTime": 0.325,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 27500,
+  "Damage": {
+    "Car": 30,
+    "Humanoid": 23
+  },
+  "Description": "Sometimes considered a Sniper, this weapon is favoured by the Yusanavian Babayaga unit, for good reason.",
+  "DisplayName": "VSS",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.135,
+  "HipFireSpread": 3.1,
+  "Id": "vss",
+  "MagazineCapacity": 20,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2600
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1,
+      "y": 1.1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.125,
+      "y": 0.125
+    }
+  },
+  "ReloadTime": 3.2,
+  "SprintReloadMult": 0.65
+}

@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.21,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 950,
+  "Damage": {
+    "Car": 45,
+    "Humanoid": 22
+  },
+  "Description": "A commercial update to the BAR, often used by gun collectors.",
+  "DisplayName": "HCAR",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.12,
+  "HipFireSpread": 1.8,
+  "Id": "hcar",
+  "MagazineCapacity": 30,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2600
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.65,
+      "y": 1.5
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.2
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

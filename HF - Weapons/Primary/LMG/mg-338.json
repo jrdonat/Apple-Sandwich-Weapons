@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.3,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 67500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 22
+  },
+  "Description": "Used by Cascadian Marines to compliment their new MCX SPEAR service weapons.",
+  "DisplayName": "MG 338",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1115,
+  "HipFireSpread": 1.6,
+  "Id": "mg-338",
+  "MagazineCapacity": 100,
+  "MagazineCount": 4,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3200
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.45,
+      "y": 1.45
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 4,
+  "SprintReloadMult": 0.5
+}

@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.18,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1200,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 13
+  },
+  "Description": "The most common special forces weapon globally, although new competition poses a risk to its crown.",
+  "DisplayName": "HK416",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.09,
+  "HipFireSpread": 0.8,
+  "Id": "hk416",
+  "MagazineCapacity": 30,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2650
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.5,
+      "y": 2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.8,
+  "SprintReloadMult": 1
+}

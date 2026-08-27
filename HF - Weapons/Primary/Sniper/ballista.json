@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.07,
+  "AimDownTime": 0.5,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 9750,
+  "Damage": {
+    "Car": 80,
+    "Humanoid": 65
+  },
+  "Description": "Mercenaries love this sniper rifle for its wide array of attachments and long range accuracy. Money well spent.",
+  "DisplayName": "Ballista",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.225,
+  "HipFireSpread": 2,
+  "Id": "ballista",
+  "MagazineCapacity": 15,
+  "MagazineCount": 4,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 4300
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.2,
+      "y": 2.4
+    },
+    "RecoverySpeed": 0.25,
+    "Yaw": {
+      "x": 1,
+      "y": 1.25
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.5
+}

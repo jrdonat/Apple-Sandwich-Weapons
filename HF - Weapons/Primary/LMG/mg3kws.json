@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.35,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 25750,
+  "Damage": {
+    "Car": 6,
+    "Humanoid": 13
+  },
+  "Description": "Primary GPMG used by the Cascadian Army, being gradually, but not fully replaced, by the MG5.",
+  "DisplayName": "MG3KWS",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.06,
+  "HipFireSpread": 2.1,
+  "Id": "mg3kws",
+  "MagazineCapacity": 100,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2800
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.65,
+      "y": 1.85
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 4,
+  "SprintReloadMult": 0.5
+}

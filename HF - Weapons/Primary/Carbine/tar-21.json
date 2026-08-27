@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1450,
+  "Damage": {
+    "Car": 5,
+    "Humanoid": 15
+  },
+  "Description": "Abran'Kabiri Palace Guards and Royal Guards use this weapon extensively to combat rebels in the Sarathi Basin.",
+  "DisplayName": "TAR-21",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.11,
+  "HipFireSpread": 1.35,
+  "Id": "tar-21",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 0.75,
+      "y": 0.75
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.72,
+  "SprintReloadMult": 1
+}

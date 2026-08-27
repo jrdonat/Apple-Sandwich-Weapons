@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.225,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 14
+  },
+  "Description": "Used by Yusanavian reserves, this rifle still serves its duty.",
+  "DisplayName": "AK-74M",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.8,
+  "Id": "ak-74m",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2550
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.13,
+      "y": 1.64
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.2
+    }
+  },
+  "ReloadTime": 2.23,
+  "SprintReloadMult": 0.75
+}

@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 17500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 16
+  },
+  "Description": "A weapon seeking to replace the P226 in Cascadian service, has been adopted by the Cascadian Marines.",
+  "DisplayName": "FNX",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.07,
+  "HipFireSpread": 1.45,
+  "Id": "fnx",
+  "MagazineCapacity": 15,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1400
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.85,
+      "y": 4.2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.05,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

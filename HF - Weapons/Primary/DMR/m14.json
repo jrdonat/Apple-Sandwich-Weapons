@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.3,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 600,
+  "Damage": {
+    "Car": 20,
+    "Humanoid": 21
+  },
+  "Description": "Former Ellerman primary service weapon, was replaced, but war demands have made it return.",
+  "DisplayName": "M14",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.114,
+  "HipFireSpread": 2.1,
+  "Id": "m14",
+  "MagazineCapacity": 20,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2800
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.45,
+      "y": 1.65
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.55
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

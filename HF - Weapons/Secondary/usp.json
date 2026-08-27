@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.15,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 8000,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 15
+  },
+  "Description": "Used by special forces and mercenaries alike, a cost effective yet adaptable platform.",
+  "DisplayName": "USP",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.07,
+  "HipFireSpread": 1.25,
+  "Id": "usp",
+  "MagazineCapacity": 12,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1550
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.35,
+      "y": 3.7
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

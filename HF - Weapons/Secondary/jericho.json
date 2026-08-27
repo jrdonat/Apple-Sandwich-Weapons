@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.245,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 3000,
+  "Damage": {
+    "Car": 7,
+    "Humanoid": 12
+  },
+  "Description": "Used by Port Freeburn Security as the standard issue pistol.",
+  "DisplayName": "Jericho",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.07,
+  "HipFireSpread": 1.25,
+  "Id": "jericho",
+  "MagazineCapacity": 12,
+  "MagazineCount": 9,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1620
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 3.1,
+      "y": 3.25
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.35,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

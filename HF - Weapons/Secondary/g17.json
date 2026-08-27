@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 7500,
+  "Damage": {
+    "Car": 7,
+    "Humanoid": 13.5
+  },
+  "Description": "A global success, this pistol offers no thrills, just reliability and adaptability, made affordable.",
+  "DisplayName": "G17",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1,
+  "Id": "g17",
+  "MagazineCapacity": 17,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1625
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.6,
+      "y": 3.35
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

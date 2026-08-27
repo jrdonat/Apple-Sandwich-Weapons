@@ -1,0 +1,44 @@
+{
+  "AimDownFOV": 50,
+  "AimDownSpread": null,
+  "AimDownTime": 0.5,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 5750,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 16
+  },
+  "Description": "A prototype rifle that sees limited use by Port Freeburn Security.",
+  "DisplayName": "XM8",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.25,
+  "Id": "xm8",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2300
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.5,
+      "y": 2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.4,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 0.75
+}

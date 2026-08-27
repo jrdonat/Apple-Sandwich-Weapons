@@ -1,0 +1,46 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.225,
+  "BulletsShot": 12,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 750,
+  "Damage": {
+    "Car": 2,
+    "Humanoid": 9
+  },
+  "Description": "Popular home defence shotgun, be that home your house, garden, or nation.",
+  "DisplayName": "Mossberg 590",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.7,
+  "HipFireSpread": {
+    "x": 2.5,
+    "y": 3.2
+  },
+  "Id": "mossberg-590",
+  "MagazineCapacity": 9,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 1,
+    "Speed": 860
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.75,
+      "y": 3.5
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 1,
+      "y": 1.25
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

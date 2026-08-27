@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": 0.4,
+  "AimDownTime": 1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 45000,
+  "Damage": {
+    "Armor": 35,
+    "Car": 300,
+    "Humanoid": 100
+  },
+  "Description": "Anti-armour sniper rifle, the M82 is often used to stop light vehicles dead in their tracks, putting out engine blocks.",
+  "DisplayName": "Barrett M82",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.52,
+  "HipFireSpread": 3.5,
+  "Id": "barrett-m82",
+  "MagazineCapacity": 5,
+  "MagazineCount": 3,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 4000
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 5,
+      "y": 5
+    },
+    "RecoverySpeed": 0.85,
+    "Yaw": {
+      "x": 0.35,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 4.5,
+  "SprintReloadMult": 0.5
+}

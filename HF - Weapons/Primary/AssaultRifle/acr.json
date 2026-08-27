@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 8500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 15
+  },
+  "Description": "A competing weapon for export globally, with niche markets and success.",
+  "DisplayName": "ACR",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 0.8,
+  "Id": "acr",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.5,
+      "y": 1.8
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 1.95,
+  "SprintReloadMult": 0.75
+}

@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.06,
+  "AimDownTime": 0.4,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 770,
+  "Damage": {
+    "Car": 50,
+    "Humanoid": 60
+  },
+  "Description": "Cascadian surplus rifle from the first Freefire War, common with hunters.",
+  "DisplayName": "Krag-Jorgensen",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.35,
+  "HipFireSpread": 1.15,
+  "Id": "krag-jorgensen",
+  "MagazineCapacity": 5,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3600
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.75,
+      "y": 1.75
+    },
+    "RecoverySpeed": 0.35,
+    "Yaw": {
+      "x": 0.125,
+      "y": 0.125
+    }
+  },
+  "ReloadTime": 3.25,
+  "SprintReloadMult": 0.5
+}

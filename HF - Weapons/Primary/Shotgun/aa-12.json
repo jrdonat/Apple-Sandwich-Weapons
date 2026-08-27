@@ -1,0 +1,47 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.3,
+  "BulletsShot": 12,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 37500,
+  "Damage": {
+    "Car": 2,
+    "Humanoid": 6
+  },
+  "Description": "Never adopted by any military, a famous merecenary outfit once used these to clear a jungle in Laogang of local insurgents.",
+  "DisplayName": "AA-12",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.25,
+  "HipFireSpread": {
+    "x": 3.4,
+    "y": 3.9
+  },
+  "Id": "aa-12",
+  "MagazineCapacity": 20,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 1,
+    "Speed": 900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.25,
+      "y": 1.25
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.55,
+      "y": 0.55
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

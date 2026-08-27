@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.17,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 5,
+    "Humanoid": 15
+  },
+  "Description": "Popular with low level security firms.",
+  "DisplayName": "UMP45",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.123,
+  "HipFireSpread": 1.4,
+  "Id": "ump45",
+  "MagazineCapacity": 25,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 1500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.45,
+      "y": 1.8
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.8,
+  "SprintReloadMult": 1
+}

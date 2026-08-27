@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.115,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 500,
+  "Damage": {
+    "Car": 5,
+    "Humanoid": 10
+  },
+  "Description": "An attempted upgrade to the HiPower, this pistol sees use with Afonso police.",
+  "DisplayName": "BDM",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.115,
+  "HipFireSpread": 1.25,
+  "Id": "bdm",
+  "MagazineCapacity": 15,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1600
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.85,
+      "y": 2.75
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.35,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

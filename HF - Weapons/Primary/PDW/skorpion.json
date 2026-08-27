@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.17,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 1,
+    "Humanoid": 12
+  },
+  "Description": "Tank crews, pilots and hijackers love the sting of this compact weapon.",
+  "DisplayName": "Skorpion",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.0652,
+  "HipFireSpread": 1.35,
+  "Id": "skorpion",
+  "MagazineCapacity": 20,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 1200
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 0.75,
+      "y": 1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.15
+    }
+  },
+  "ReloadTime": 2.86,
+  "SprintReloadMult": 1
+}

@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.16,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 5,
+    "Humanoid": 15
+  },
+  "Description": "Adopted by Cascadian Police Tactical Response Officers, a highly effective weapon.",
+  "DisplayName": "MCX-VIRTUS",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.075,
+  "HipFireSpread": 1.14,
+  "Id": "mcx-virtus",
+  "MagazineCapacity": 30,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.15,
+      "y": 1.8
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.355,
+  "Special": true,
+  "SprintReloadMult": 1
+}

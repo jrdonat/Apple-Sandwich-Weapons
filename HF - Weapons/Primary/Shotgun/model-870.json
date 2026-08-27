@@ -1,0 +1,46 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.3,
+  "BulletsShot": 12,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 400,
+  "Damage": {
+    "Car": 2,
+    "Humanoid": 9
+  },
+  "Description": "One of the most popular shotguns world wide, often used by Cascadian Police to scare off polar bears in the north.",
+  "DisplayName": "Model 870",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.55,
+  "HipFireSpread": {
+    "x": 3,
+    "y": 3.75
+  },
+  "Id": "model-870",
+  "MagazineCapacity": 8,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 1,
+    "Speed": 840
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2.25,
+      "y": 2.55
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.5,
+      "y": 0.95
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

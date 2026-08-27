@@ -1,0 +1,44 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.12,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 27500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 16
+  },
+  "Description": "Often used by individual paramilitary special forces groups.",
+  "DisplayName": "L119A2",
+  "FireModes": [
+    "Auto",
+    "Burst",
+    "Semi"
+  ],
+  "FireRate": 0.09,
+  "HipFireSpread": 0.5,
+  "Id": "l119a2",
+  "MagazineCapacity": 30,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2525
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.5,
+      "y": 2.1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.45
+    }
+  },
+  "ReloadTime": 1.95,
+  "SprintReloadMult": 0.75
+}

@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.095,
+  "AimDownTime": 0.5,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 32750,
+  "Damage": {
+    "Car": 90,
+    "Humanoid": 82
+  },
+  "Description": "A hard hitting and reliable sniper rifle, favourite of higher tier mercenaries.",
+  "DisplayName": "M98B",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.25,
+  "HipFireSpread": 2.4,
+  "Id": "m98b",
+  "MagazineCapacity": 10,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 4300
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.8,
+      "y": 2
+    },
+    "RecoverySpeed": 0.6,
+    "Yaw": {
+      "x": 0.215,
+      "y": 0.215
+    }
+  },
+  "ReloadTime": 3.15,
+  "SprintReloadMult": 0.5
+}

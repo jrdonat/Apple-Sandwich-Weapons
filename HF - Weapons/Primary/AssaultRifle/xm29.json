@@ -1,0 +1,45 @@
+{
+  "AimDownFOV": 40,
+  "AimDownSpread": null,
+  "AimDownTime": 0.25,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 16
+  },
+  "Description": "A prototype combination weapon system, new trials see potential and viability in the field.",
+  "DisplayName": "XM29",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "GamePass": true,
+  "HipFireSpread": 0.3,
+  "Id": "xm29",
+  "MagazineCapacity": 30,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.5,
+      "y": 2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.5,
+  "ScopeGui": "ReplicatedStorage.Guis.Scopes.Basic",
+  "SprintReloadMult": 0.75
+}

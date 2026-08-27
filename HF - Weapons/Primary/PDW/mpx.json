@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.22,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 37500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 14
+  },
+  "Description": "Popular with more developed police forces around the world, it has extensive customisation potential.",
+  "DisplayName": "MPX",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.09,
+  "HipFireSpread": 1.6,
+  "Id": "mpx",
+  "MagazineCapacity": 35,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 1900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.55,
+      "y": 1.2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.1
+    }
+  },
+  "ReloadTime": 1.8,
+  "SprintReloadMult": 1
+}

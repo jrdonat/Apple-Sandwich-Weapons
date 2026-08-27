@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.03,
+  "AimDownTime": 0.4,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 800,
+  "Damage": {
+    "Car": 40,
+    "Humanoid": 45
+  },
+  "Description": "Used by police, and a unique type of aggressive sniper unit within the Ellerman Army.",
+  "DisplayName": "Steyr Scout",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.95,
+  "HipFireSpread": 2,
+  "Id": "steyr-scout",
+  "MagazineCapacity": 8,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3800
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.25,
+      "y": 1.15
+    },
+    "RecoverySpeed": 0.25,
+    "Yaw": {
+      "x": 0,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.5,
+  "SprintReloadMult": 0.5
+}

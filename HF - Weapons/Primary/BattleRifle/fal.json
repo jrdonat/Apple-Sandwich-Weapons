@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.3,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 250,
+  "Damage": {
+    "Car": 20,
+    "Humanoid": 18
+  },
+  "Description": "An older battle rifle seeing use all over, often given to rebel groups by former users of this weapon.",
+  "DisplayName": "FAL",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.115,
+  "HipFireSpread": 1.15,
+  "Id": "fal",
+  "MagazineCapacity": 20,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2950
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.45,
+      "y": 1.75
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.15,
+      "y": 0.55
+    }
+  },
+  "ReloadTime": 2.75,
+  "SprintReloadMult": 0.65
+}

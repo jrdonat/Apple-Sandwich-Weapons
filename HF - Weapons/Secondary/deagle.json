@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 75000,
+  "Damage": {
+    "Car": 15,
+    "Humanoid": 25
+  },
+  "Description": "A status symbol more than anything, this pistol has been popularised by Freefire Warlords as a symbol of power.",
+  "DisplayName": "Deagle",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.15,
+  "HipFireSpread": 3,
+  "Id": "deagle",
+  "MagazineCapacity": 8,
+  "MagazineCount": 4,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1300
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 3.25,
+      "y": 4.15
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

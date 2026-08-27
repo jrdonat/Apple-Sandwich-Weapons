@@ -1,0 +1,45 @@
+{
+  "AimDownFOV": 30,
+  "AimDownSpread": null,
+  "AimDownTime": 0.25,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 2250,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 14.5
+  },
+  "Description": "The service rifle of the Afonso Republic, also often used by local law enforcement.",
+  "DisplayName": "AUG A1",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.2,
+  "Id": "aug-a1",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.2,
+      "y": 1.45
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.2
+    }
+  },
+  "ReloadTime": 2,
+  "ScopeGui": "ReplicatedStorage.Guis.Scopes.Basic",
+  "SprintReloadMult": 0.75
+}

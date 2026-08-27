@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 500,
+  "Damage": {
+    "Car": 8,
+    "Humanoid": 13
+  },
+  "Description": "Popular with Yusanavian tank crews, its compact size makes it great for dismounted fire.",
+  "DisplayName": "AK-74U",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.55,
+  "Id": "ak-74u",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2300
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.55,
+      "y": 1.8
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

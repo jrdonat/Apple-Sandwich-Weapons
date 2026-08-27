@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": 0.45,
+  "AimDownTime": 1.35,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 115000,
+  "Damage": {
+    "Armor": 50,
+    "Car": 350,
+    "Humanoid": 100
+  },
+  "Description": "An infamous anti-material rifle.",
+  "DisplayName": "NTW 20",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.75,
+  "HipFireSpread": 3.75,
+  "Id": "ntw-20",
+  "MagazineCapacity": 3,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 6700
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 4,
+      "y": 4
+    },
+    "RecoverySpeed": 0.75,
+    "Yaw": {
+      "x": 0.45,
+      "y": 0.45
+    }
+  },
+  "ReloadTime": 4.5,
+  "SprintReloadMult": 0.5
+}

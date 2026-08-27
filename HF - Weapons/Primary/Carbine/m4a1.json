@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.16,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 600,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 14
+  },
+  "Description": "Primary service rifle of Aster and the Rock, however modern advancements have left this platform in the past.",
+  "DisplayName": "M4A1",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.27,
+  "Id": "m4a1",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2600
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.5,
+      "y": 1.7
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.2,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 1.55,
+  "SprintReloadMult": 1
+}

@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.095,
+  "AimDownTime": 0.7,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 2250,
+  "Damage": {
+    "Car": 50,
+    "Humanoid": 75
+  },
+  "Description": "Used by Conglomerate soldiers in their border wars with Yusanavia, famous for killing many Yusanavian officers over the border.",
+  "DisplayName": "FR F1",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 1.15,
+  "HipFireSpread": 2.3,
+  "Id": "fr-f1",
+  "MagazineCapacity": 10,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 4000
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 2,
+      "y": 2
+    },
+    "RecoverySpeed": 0.6,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 3.35,
+  "SprintReloadMult": 0.5
+}

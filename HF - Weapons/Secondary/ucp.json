@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.135,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 12500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 11.5
+  },
+  "Description": "Seeing extensive use by mercenaries, this pistol is seen alongside its sibling USP almost always.",
+  "DisplayName": "UCP",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.07,
+  "HipFireSpread": 0.8,
+  "Id": "ucp",
+  "MagazineCapacity": 20,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2200
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.65,
+      "y": 3.45
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2,
+  "SprintReloadMult": 1
+}

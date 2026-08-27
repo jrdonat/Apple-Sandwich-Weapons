@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.1,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 200,
+  "Damage": {
+    "Car": 2,
+    "Humanoid": 11
+  },
+  "Description": "Newly adopted Yusanavian PDW for vehicle crews. Cheap to produce.",
+  "DisplayName": "PP-91 Kedr",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.09,
+  "HipFireSpread": 1.5,
+  "Id": "pp-91-kedr",
+  "MagazineCapacity": 20,
+  "MagazineCount": 9,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 1500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1,
+      "y": 1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0,
+      "y": 0.1
+    }
+  },
+  "ReloadTime": 2.21,
+  "SprintReloadMult": 1
+}

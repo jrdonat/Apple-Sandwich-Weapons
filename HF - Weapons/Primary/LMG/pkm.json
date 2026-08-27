@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.35,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1850,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 15
+  },
+  "Description": "Standard issue LMG to the Yusanavian Alliance, seeing replacement by the PKP in some regiments.",
+  "DisplayName": "PKM",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.116,
+  "HipFireSpread": 1.93,
+  "Id": "pkm",
+  "MagazineCapacity": 100,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.6,
+      "y": 2.4
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.35,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 4,
+  "SprintReloadMult": 0.5
+}

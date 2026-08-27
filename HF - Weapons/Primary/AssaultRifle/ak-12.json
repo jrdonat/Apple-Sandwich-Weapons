@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.127,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 14
+  },
+  "Description": "The newly introduced service rifle for the Yusanavian Alliance.",
+  "DisplayName": "AK-12",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.6,
+  "Id": "ak-12",
+  "MagazineCapacity": 30,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2550
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.53,
+      "y": 1.97
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.3
+    }
+  },
+  "ReloadTime": 2.45,
+  "SprintReloadMult": 0.75
+}

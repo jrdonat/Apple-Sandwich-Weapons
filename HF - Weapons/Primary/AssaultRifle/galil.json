@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.3,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1250,
+  "Damage": {
+    "Car": 12,
+    "Humanoid": 15.52
+  },
+  "Description": "Imported from the southern regions, this too finds use with ne'er-do-wells.",
+  "DisplayName": "Galil",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.09,
+  "HipFireSpread": 1.7,
+  "Id": "galil",
+  "MagazineCapacity": 35,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2400
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.55,
+      "y": 2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.4,
+      "y": 0.35
+    }
+  },
+  "ReloadTime": 1.735,
+  "SprintReloadMult": 0.75
+}

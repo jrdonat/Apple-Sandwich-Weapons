@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 17500,
+  "Damage": {
+    "Car": 20,
+    "Humanoid": 18
+  },
+  "Description": "Commonly seen within special forces globally, Cascadian Marines currently use this, but it is being replaced.",
+  "DisplayName": "SCAR-H",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1,
+  "Id": "scar-h",
+  "MagazineCapacity": 20,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.35,
+      "y": 1.12
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 3.1,
+  "SprintReloadMult": 0.65
+}

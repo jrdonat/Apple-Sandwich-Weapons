@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": 0.07,
+  "AimDownTime": 0.4,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 10500,
+  "Damage": {
+    "Car": 150,
+    "Humanoid": 70
+  },
+  "Description": "Common system used extensively by the Yusanavian Army.",
+  "DisplayName": "SVD Dragunov",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.55,
+  "HipFireSpread": 2.25,
+  "Id": "svd-dragunov",
+  "MagazineCapacity": 10,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 3700
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 3.2,
+      "y": 3.4
+    },
+    "RecoverySpeed": 0.355,
+    "Yaw": {
+      "x": 0.125,
+      "y": 0.215
+    }
+  },
+  "ReloadTime": 2.4,
+  "SprintReloadMult": 0.5
+}

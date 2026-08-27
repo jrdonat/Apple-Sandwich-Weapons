@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.25,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 1500,
+  "Damage": {
+    "Car": 14,
+    "Humanoid": 14
+  },
+  "Description": "Replacing the M16A1 in Ellerman service, albeit extremely slowly.",
+  "DisplayName": "LR-300",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.111,
+  "HipFireSpread": 1.25,
+  "Id": "lr-300",
+  "MagazineCapacity": 30,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2100
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.43,
+      "y": 1.13
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.3,
+      "y": 0.22
+    }
+  },
+  "ReloadTime": 2.15,
+  "SprintReloadMult": 0.75
+}

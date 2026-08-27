@@ -1,0 +1,45 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.3,
+  "BulletsShot": 12,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 2,
+    "Humanoid": 9
+  },
+  "Description": "Used during the Second Freefire War, was famously used by smugglers out of Freefire.",
+  "DisplayName": "Model 37",
+  "FireModes": [
+    "Semi"
+  ],
+  "FireRate": 0.65,
+  "HipFireSpread": {
+    "x": 4,
+    "y": 5.6
+  },
+  "Id": "model-37",
+  "MagazineCapacity": 5,
+  "MagazineCount": 5,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 1,
+    "Speed": 800
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 3.75,
+      "y": 4.5
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.75,
+      "y": 0.55
+    }
+  },
+  "ReloadTime": 3,
+  "SprintReloadMult": 0.65
+}

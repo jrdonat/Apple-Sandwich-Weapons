@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.152,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.11,
+    "Interval": 0.075
+  },
+  "Cost": 1750,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 15
+  },
+  "Description": "Adopted by the Conglomerate after the Yusanavian Civil War.",
+  "DisplayName": "FAMAS F1",
+  "FireModes": [
+    "Burst",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.25,
+  "Id": "famas-f1",
+  "MagazineCapacity": 25,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2900
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.5,
+      "y": 2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.25,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.32,
+  "SprintReloadMult": 0.75
+}

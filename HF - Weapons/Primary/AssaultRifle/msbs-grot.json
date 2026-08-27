@@ -1,0 +1,44 @@
+{
+  "AimDownSpread": 0.6,
+  "AimDownTime": 0.158,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 4500,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 15
+  },
+  "Description": "In extremely high demand, Yusanavian airborne have a soft spot for this weapon.",
+  "DisplayName": "MSBS Grot",
+  "FireModes": [
+    "Auto",
+    "Burst",
+    "Semi"
+  ],
+  "FireRate": 0.09,
+  "HipFireSpread": 1.28,
+  "Id": "msbs-grot",
+  "MagazineCapacity": 30,
+  "MagazineCount": 7,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.23,
+      "y": 1.35
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.34
+    }
+  },
+  "ReloadTime": 2.35,
+  "SprintReloadMult": 0.75
+}

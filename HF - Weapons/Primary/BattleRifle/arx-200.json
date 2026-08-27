@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.3,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 35000,
+  "Damage": {
+    "Car": 10,
+    "Humanoid": 19
+  },
+  "Description": "A heavy rifle being used by the Afonso Republic's special forces. Major export success.",
+  "DisplayName": "ARX 200",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.1,
+  "HipFireSpread": 1.32,
+  "Id": "arx-200",
+  "MagazineCapacity": 20,
+  "MagazineCount": 6,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 10,
+    "Speed": 2700
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.3,
+      "y": 1.9
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.1,
+      "y": 0.25
+    }
+  },
+  "ReloadTime": 2.25,
+  "SprintReloadMult": 0.65
+}

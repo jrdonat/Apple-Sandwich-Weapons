@@ -1,0 +1,42 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.2,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Damage": {
+    "Car": 14,
+    "Humanoid": 16
+  },
+  "Description": "Yusanavian standard LSW, prolonged automatic fire.",
+  "DisplayName": "RPK",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.11,
+  "HipFireSpread": 1.8,
+  "Id": "rpk",
+  "MagazineCapacity": 40,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 2500
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.1,
+      "y": 1.1
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.115,
+      "y": 0.115
+    }
+  },
+  "ReloadTime": 4,
+  "SprintReloadMult": 0.5
+}

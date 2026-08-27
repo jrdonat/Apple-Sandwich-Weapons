@@ -1,0 +1,43 @@
+{
+  "AimDownSpread": null,
+  "AimDownTime": 0.22,
+  "Burst": {
+    "Bullets": 3,
+    "Cooldown": 0.15,
+    "Interval": 0.075
+  },
+  "Cost": 42500,
+  "Damage": {
+    "Car": 8,
+    "Humanoid": 15
+  },
+  "Description": "Commercially a failure, but still popular with mercenaries, this PDW sees heavy use in the Freefire States.",
+  "DisplayName": "APC9",
+  "FireModes": [
+    "Auto",
+    "Semi"
+  ],
+  "FireRate": 0.097,
+  "HipFireSpread": 1.123,
+  "Id": "apc9",
+  "MagazineCapacity": 25,
+  "MagazineCount": 8,
+  "Projectile": {
+    "Gravity": 15,
+    "MaxTime": 20,
+    "Speed": 1800
+  },
+  "Recoil": {
+    "Pitch": {
+      "x": 1.75,
+      "y": 2
+    },
+    "RecoverySpeed": null,
+    "Yaw": {
+      "x": 0.7,
+      "y": 0.55
+    }
+  },
+  "ReloadTime": 2.39,
+  "SprintReloadMult": 1
+}

@@ -9,7 +9,7 @@
   "Cost": 8500,
   "Damage": {
     "Car": 10,
-    "Humanoid": 20
+    "Humanoid": 15
   },
   "Description": "A competing weapon for export globally, with niche markets and success.",
   "DisplayName": "ACR",

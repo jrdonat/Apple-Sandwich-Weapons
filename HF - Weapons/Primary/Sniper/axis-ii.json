@@ -2,7 +2,7 @@
   "AimDownSpread": 0.06,
   "AimDownTime": 0.5,
   "Burst": {
-    "Bullets": 3,
+    "Bullets": 4,
     "Cooldown": 0.15,
     "Interval": 0.075
   },

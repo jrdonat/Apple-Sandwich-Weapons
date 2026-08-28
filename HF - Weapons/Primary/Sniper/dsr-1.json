@@ -9,7 +9,7 @@
   "Cost": 17500,
   "Damage": {
     "Car": 110,
-    "Humanoid": 90
+    "Humanoid": 110
   },
   "Description": "Originally for military use, the DSR-1 has found its fame in law enforcement operations, ending many hostage situations quickly.",
   "DisplayName": "DSR-1",
